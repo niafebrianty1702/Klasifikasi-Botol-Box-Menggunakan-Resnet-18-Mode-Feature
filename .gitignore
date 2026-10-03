@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.cache/
+features/*.csv
+features/*.npz
+results/*.pt
+results/*.csv
+results/*.png

@@ -1,0 +1,17 @@
+{
+  "raw_unique_per_class": {
+    "botol": 50,
+    "box": 50
+  },
+  "dataset_counts": {
+    "train": {
+      "botol": 120,
+      "box": 120
+    },
+    "val": {
+      "botol": 10,
+      "box": 10
+    }
+  },
+  "total_images": 260
+}
